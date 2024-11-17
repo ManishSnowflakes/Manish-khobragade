@@ -19,9 +19,11 @@ Welcome to my GitHub profile! I thrive on solving real-world problems through in
 
 ## 🚀 **Skills & Technologies**
 ### **Programming Expertise**:
-- **Languages**: Python, JavaScript, Java, C, TypeScript  
+- **Programming Languages**: Python, JavaScript, Java, C, TypeScript
+- **Basic Languages**: html, css
 - **Frameworks**: React.js, Bootstrap, Angular.js  
-- **Backend**: Node.js, Express, Flask  
+- **Backend**: Node.js, Express, Flask
+
 
 ### **AI & ML Specializations**:
 - **Frameworks**: TensorFlow, PyTorch, Scikit-Learn  
