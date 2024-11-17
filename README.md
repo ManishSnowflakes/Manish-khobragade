@@ -7,9 +7,12 @@ Welcome to my GitHub profile! I thrive on solving real-world problems through in
 ---
 
 ## 🔍 **About Me**
-- **🌱 Currently Learning**: Advanced deployment strategies, multi-cloud architecture, and generative AI applications.  
-- **👨‍💻 Professional Focus**: Developing scalable AI/ML solutions, exploring cutting-edge GPT/LLM advancements, and crafting enterprise-grade architectures.  
-- **💡 Interests**: AI-driven innovation, entrepreneurship, open-source contributions, and bridging gaps between research and real-world applications.  
+- **🌱 Currently Learning**: Advanced deployment strategies, multi-cloud architecture, and generative AI applications.
+ 
+- **👨‍💻 Professional Focus**: Developing scalable AI/ML solutions, exploring cutting-edge GPT/LLM advancements, and crafting enterprise-grade architectures.
+  
+- **💡 Interests**: AI-driven innovation, entrepreneurship, open-source contributions, and bridging gaps between research and real-world applications.
+  
 - **🎯 Goals**: To lead groundbreaking AI projects, explore advanced reinforcement learning applications, and contribute to the open-source community with impactful innovations.
 
 ---
